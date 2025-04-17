@@ -25,7 +25,7 @@ A secure platform for trading digital assets using blockchain principles, featur
 - Upload digital assets with metadata
 - Browse available assets
 - Purchase system
-- All powered by Blockchain to ensure security and transperency.
+- All powered by Blockchain to ensure security and transparency.
 
 ### Tech Stack
 | Component        | Technology               |
